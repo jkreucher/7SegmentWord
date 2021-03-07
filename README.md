@@ -1,10 +1,15 @@
-# 7SegmentWord
-Find longest word that is possible to display on a 7 Segment display
+# 7 Segment Word
+
+## About
+Find longest word that can be displayed on a 7 Segment display based off a dictionary file.
 
 
-# Compile
-compile with
-  make
-  
-run program
-  ./segment_words
+## Compile
+compile with:
+```
+make
+```
+and run:
+```
+./segment_words
+```
