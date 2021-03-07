@@ -13,3 +13,6 @@ and run:
 ```
 ./segment_words
 ```
+
+## License
+[GPL3](LICENSE) Jannik Kreucher
